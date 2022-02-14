@@ -1,0 +1,14 @@
+.fas {
+    cursor: pointer;
+    margin-left: 7px;
+}
+.pruebo{
+    background-color: black;
+}
+.Center {
+    width:80%;
+    height:auto;
+    position: fixed;
+    top: 15%;
+    left: 6%;
+}
